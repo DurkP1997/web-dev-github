@@ -1,0 +1,11 @@
+[33mcommit f7cb6f55fbcad9f478009aaf7ba121b79bf121ab[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Durk Postma <durkpostma@hotmail.com>
+Date:   Tue Aug 15 12:47:24 2023 +0200
+
+    changed test.txt and added second-commit.txt
+
+[33mcommit a0cf9a1667ebc2d73c9e0c4770816e914063c704[m
+Author: Durk Postma <durkpostma@hotmail.com>
+Date:   Tue Aug 15 12:44:43 2023 +0200
+
+    added test.txt
